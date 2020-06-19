@@ -1,0 +1,2 @@
+# gostack-template-conceitos-nodejs
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a089e29791454312962133da2798cb8e)](https://app.codacy.com/manual/gabrielsimongianotti/gostack-template-conceitos-nodejs?utm_source=github.com&utm_medium=referral&utm_content=gabrielsimongianotti/gostack-template-conceitos-nodejs&utm_campaign=Badge_Grade_Dashboard)
